@@ -1,0 +1,140 @@
+.Stay-connected-with-us{
+    padding: 2rem;
+}
+.Stay-connected-with-us .etiqueta{
+    width: 100%;
+    padding: 4rem 2rem;
+}
+.Stay-connected-with-us .etiqueta h3{
+    display: flex;
+    align-items: center;
+    font-size: 2rem;
+    font-weight: 100;
+    color: grey;   
+}
+.Stay-connected-with-us .etiqueta h3 span{
+    font-weight: 900;
+    color: var(--color2)
+}
+.Stay-connected-with-us .etiqueta h3 hr{  
+    margin: 0 1rem;
+}
+
+.item_uno{
+    width: 100%;
+    height: 45rem;
+    margin-top: 5rem;
+    background-color: var(--color1);
+}
+.item_uno img{
+    width: 7rem;
+    height: 7rem;
+    margin: 3.5rem;
+}
+.item_uno h2{
+    font-size: 2.5rem;
+    font-weight: 800;
+    margin: 3.5rem;
+    margin-top: 0px;
+    color: var(--color4);
+}
+.item_uno p{
+    font-size: 1.7rem;
+    font-weight: 100;
+    margin-left: 3.5rem;
+    margin-top: 1rem;
+}
+.item_uno .bt3{
+    text-decoration: none;
+    display: block;
+    border: 1px solid #fff;
+    width: 15rem;
+    border-radius: 10rem;
+    margin-top: 7rem;
+    margin-left: 3.5rem;
+    color: #fff;
+    padding: 1rem;
+
+    font-size: 1.8rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.item_dos{
+    width: 100%;
+    height: 45rem;
+    margin-top: 5rem;
+    background-color: #5758D0;
+}
+.item_dos h2{
+    font-size: 2.5rem;
+    font-weight: 800;
+    padding: 3.5rem;
+    color: var(--color4);
+}
+.item_dos h1{
+    font-size: 5rem;
+    font-weight: 900;
+    margin-left: 3.5rem;
+    margin-top: 3rem;
+    color: var(--color4);
+}
+.item_dos p{
+    font-size: 1.7rem;
+    margin-left: 3.5rem;
+    margin-top: 3rem;
+}
+.item_dos .bt4{
+    text-decoration: none;
+    display: block;
+    width: 25rem;
+    border-radius: 10rem;
+    margin-top: 10rem;
+    color: #fff;
+    padding: 1rem;
+
+    font-size: 1.6rem;
+    font-weight: 600;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.item_tres{
+    width: 100%;
+    height: 45rem;
+    margin-top: 5rem;
+    background-color:#157EF8;
+}
+.item_tres h2{
+    font-size: 2rem;
+    font-weight: 800;
+    padding: 3.5rem;
+    color: var(--color4);
+}
+.item_tres p{
+    font-size: 1.7rem;
+    margin-left: 3.5rem;
+}
+.item_tres .Tech_Crunch{
+    font-size: 1.7rem;
+    margin-left: 3.5rem;
+    color: #aed5ff;
+}
+.item_tres .bt5{
+    text-decoration: none;
+    display: block;
+    width: 15rem;
+    border-radius: 10rem;
+    margin-top: 5.5rem;
+    margin-left: 2rem;
+    color: #fff;
+    padding: 1rem;
+
+    font-size: 1.6rem;
+    font-weight: 600;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}

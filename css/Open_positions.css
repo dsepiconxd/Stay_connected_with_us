@@ -1,0 +1,36 @@
+.Open_positions{
+    height: 30rem;
+    padding: 2rem;
+    background-color: var(--color1)
+}
+.Open_positions .seccion{
+    width: 100%;
+    color: var(--color5);
+    padding: 4rem 2rem;
+}
+.Open_positions .seccion h3{
+    display: flex;
+    align-items: center;
+    font-size: 2rem;
+    font-weight: 100;
+    color: var(--color5);   
+}
+.Open_positions .seccion h3 span{
+    font-weight: 900;
+    color: var(--color5)
+}
+.Open_positions .seccion h3 hr{  
+    margin: 0 1rem;
+}
+
+.Open_positions .seccion{
+    color: var(--color4);
+}
+.Open_positions h2{
+    color: var(--color4);
+    font-size: 4rem;
+    margin-top: 5rem;
+}
+.Open_positions p{
+    font-size: 1.6rem;
+}
